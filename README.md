@@ -14,7 +14,7 @@ Skills: Linux (fundamental) / Hacking (learning) / Coding (learning)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/BDhaCkers009)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BDhaCkers009&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BDhaCKers009&show_icons=true&theme=dark) 
 
 ![Profile views](https://gpvc.arturio.dev/BDhaCkers009)  
 
