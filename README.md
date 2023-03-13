@@ -4,7 +4,7 @@ I'm just a learner. Currently learning hacking,programming and digital marketing
 
 Skills: Linux (fundamental) / Hacking (learning) / Coding (learning)
 
-- 🔭 I’m currently working on YouTube 
+- 🔭 I’m currently creating contents on [YouTube](https://youtube.com/@LearnTermux) 
 - 🌱 I’m currently learning hacking , digital marketing 
 - 💬 Ask me about Linux / Termux 
 - ⚡ Fun fact: Everybody thinks I'm PRO 
