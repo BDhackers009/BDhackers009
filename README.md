@@ -18,5 +18,5 @@ Skills: Linux (fundamental) / Hacking (learning) / Coding (learning)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BDhaCKers009&show_icons=true&theme=dark) 
 
-![Profile views](https://gpvc.arturio.dev/BDhaCkers009)  
+![Profile views](https://komarev.com/ghpvc/?username=bdhackers009&color=blue)
 
